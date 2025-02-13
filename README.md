@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## [Contact](pplx://action/followup)
 
-Padma Charana Behera - padmachbehera23@gmail.com - [[LinkedIn Profile](https://www.linkedin.com/in/padmach-behera/)]
+Padma Charana Behera - padmachbehera23@gmail.com - [LinkedIn Profile](https://www.linkedin.com/in/padmach-behera/)
