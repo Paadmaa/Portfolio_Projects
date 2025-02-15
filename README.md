@@ -91,6 +91,13 @@ Each project has its own dedicated directory within this repository. Inside each
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## [Contact](pplx://action/followup)
+# Author
 
-Padma Charana Behera - padmachbehera23@gmail.com - [LinkedIn Profile](https://www.linkedin.com/in/padmach-behera/)
+Padma Charana Behera  
+
+# Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
