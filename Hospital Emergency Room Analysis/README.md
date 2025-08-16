@@ -2,6 +2,8 @@
 **Optimizing patient flow, resource allocation, and satisfaction in a high-volume hospital ER**
 
 ---
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTYzYzdkNWEtZTQ1MS00OGFmLWFiMWYtZTJkYzJlMDc0NjI2IiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9)
+---
 
 ## 🧭 Project Purpose  
 This Power BI dashboard analyzes 19 months of emergency room data to uncover patterns in patient demographics, wait times, admission rates, and departmental referrals. The goal is to support hospital administrators in improving operational efficiency, staffing decisions, and patient experience.
