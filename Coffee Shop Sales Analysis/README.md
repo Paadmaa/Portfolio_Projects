@@ -1,59 +1,113 @@
-# Coffee Shop Sales Data Analytics Project
+# ☕ Coffee Shop Sales Analysis Dashboard  
+**Optimizing sales performance through time-based, location-based, and product-level insights**
 
-## Project Overview
-This project is a comprehensive data analytics solution that leverages SQL and Power BI to analyze and visualize coffee shop sales data. The goal is to extract actionable insights from transaction data, including sales trends, order patterns, and customer behavior.
+---
 
-## Tools & Technologies Used
-- **SQL (MySQL)**: For data cleaning, transformation, and analysis.
-- **Power BI**: For data visualization and dashboard creation.
+## 📘 Project Overview  
+This Power BI dashboard analyzes sales performance across multiple dimensions for a coffee shop chain. It helps business stakeholders understand monthly trends, store-level performance, product category contributions, and customer behavior by time and location.
 
-## Key Features & Analysis
-### **1. Data Cleaning & Transformation (SQL)**
-- Converted `transaction_date` and `transaction_time` to proper formats.
-- Renamed misformatted column names.
-- Modified data types for improved query efficiency.
+The dashboard is designed to support strategic decisions in inventory planning, marketing campaigns, and operational efficiency.
 
-### **2. Sales Performance Metrics**
-- **Total Sales**: Computed by summing `unit_price * transaction_qty`.
-- **Month-over-Month (MoM) Growth**: Analyzed sales increase or decrease compared to the previous month.
-- **Daily, Weekly, and Monthly Sales Trends**.
+---
 
-### **3. Order Analysis**
-- **Total Orders**: Counted unique transactions.
-- **Orders Trend Analysis**: Identified MoM percentage change in order volume.
+## 🎯 Business Objectives  
+- Track monthly sales, orders, and quantity sold  
+- Identify top-performing products and categories  
+- Analyze sales patterns by day, hour, and location  
+- Compare weekday vs. weekend performance  
+- Enable dynamic filtering and drill-down for decision-makers
 
-### **4. Product Performance**
-- **Sales by Product Category**: Determined top-selling categories.
-- **Top 10 Products**: Ranked products by total revenue.
+---
 
-### **5. Store Location Analysis**
-- **Sales by Store Location**: Compared performance across different branches.
-- **Sales by Day & Hour**: Identified peak business hours and best-performing days.
+## 🧠 KPI Requirements  
 
-### **6. Advanced Business Insights**
-- **Sales Trend Over Time**: Used moving averages to assess seasonal fluctuations.
-- **Daily Sales vs. Average Sales**: Categorized days as "Above Average" or "Below Average".
-- **Weekday vs. Weekend Performance**: Evaluated consumer behavior variations.
+### 📅 Total Sales Analysis  
+- Monthly total sales  
+- Month-over-month (MoM) increase/decrease  
+- Difference between selected and previous month  
 
-## Power BI Dashboard
-- **Interactive Visuals**: Sales trends, key performance indicators (KPIs), and store-wise comparisons.
-- **Drill-down Features**: Allows detailed analysis at different granularity levels.
-- **Filters**: Users can filter data by date, product category, location, and sales trends.
+### 📦 Total Orders Analysis  
+- Monthly total orders  
+- MoM change in order volume  
+- Difference between selected and previous month  
 
-## How to Use the Project
-1. **SQL Analysis**: Run the provided SQL queries in MySQL Workbench or any compatible SQL environment.
-2. **Power BI Dashboard**:
-   - Load the cleaned data into Power BI.
-   - Use the interactive dashboard to explore insights.
-   
-## Business Impact
-This project helps coffee shop owners and managers:
-- Identify sales trends and optimize inventory management.
-- Improve pricing strategies based on demand fluctuations.
-- Increase revenue by focusing on high-performing products and stores.
+### 🧮 Total Quantity Sold Analysis  
+- Monthly total quantity sold  
+- MoM change in quantity  
+- Difference between selected and previous month  
 
-## Future Enhancements
-- **Predictive Analytics**: Implement machine learning models to forecast future sales.
-- **Customer Segmentation**: Use clustering techniques to categorize customer preferences.
-- **Automated Data Pipelines**: Improve efficiency with scheduled SQL procedures and Power BI data refresh automation.
+---
 
+## 📊 Chart Requirements  
+
+### 🔥 Calendar Heat Map  
+- Dynamic calendar view based on selected month  
+- Color-coded daily sales intensity  
+- Tooltips showing Sales, Orders, Quantity per day  
+
+### 📆 Weekday vs. Weekend Sales  
+- Segmentation of sales by weekdays and weekends  
+- Insights into behavioral patterns and peak periods  
+
+### 🏪 Sales by Store Location  
+- Store-level sales visualization  
+- MoM sales difference per store  
+- Highlights of growth or decline trends  
+
+### 📈 Daily Sales with Average Line  
+- Line chart of daily sales for selected month  
+- Average line to benchmark performance  
+- Highlight days above/below average  
+
+### 🧁 Sales by Product Category  
+- Category-wise sales breakdown  
+- Identification of high-performing categories  
+
+### 🥇 Top 10 Products by Sales  
+- Bar chart of top-selling products  
+- Quick view of best performers  
+
+### ⏰ Sales by Days and Hours  
+- Heat map of sales by day-hour combinations  
+- Tooltips for granular metrics (Sales, Orders, Quantity)
+
+---
+
+## 🛠️ Tools & Technologies  
+| Tool        | Purpose                                  |
+|-------------|-------------------------------------------|
+| Power BI    | Dashboard development and interactivity   |
+| Excel       | Data cleaning and preprocessing           |
+| DAX         | Calculated columns and dynamic KPIs       |
+
+---
+
+## ✅ Key Insights & Impact  
+- **Sales peaks** observed during weekends and late mornings  
+- **Store-level trends** reveal high performers and underperformers  
+- **Top 10 products** drive majority of revenue, guiding inventory focus  
+- **Calendar heat map** helps identify promotional opportunities  
+- **Category analysis** supports targeted marketing and bundling strategies
+
+---
+
+## 📁 Repository Structure  
+| File/Folder | Description |
+|-------------|-------------|
+| `README.md` | Project overview and walkthrough |
+| `Coffee_Shop_Dashboard.pbix` | Interactive Power BI dashboard |
+| `Data_Cleaning_Steps.xlsx` | Preprocessing and transformation logic |
+| `Summary_Insights.txt` | Strategic takeaways and recommendations |
+
+---
+
+## 💡 Strategic Value  
+This dashboard empowers coffee shop managers and analysts to make data-driven decisions around product offerings, store operations, and promotional timing. It combines granular time-based analysis with high-level KPIs to deliver actionable insights.
+
+---
+
+## 🤝 Connect with Me  
+If you found this project insightful or would like to collaborate, feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/padmach-behera/)  
+- 🌐 [Portfolio](https://www.datascienceportfol.io/padmachbehera23) 
