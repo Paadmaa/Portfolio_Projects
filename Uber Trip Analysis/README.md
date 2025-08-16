@@ -1,5 +1,7 @@
 # 🚗 Uber City-Wise Operations Dashboard
 
+[Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiMzA0N2U5OTctZTEwYi00M2RmLTk1ZmEtYzQ0YzMxZGI1Nzc0IiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9)
+
 ## 🧠 Objective
 To assess Uber’s operational performance across multiple cities in India, including trip success rates, payment methods, driver-partner performance, and revenue insights.
 
