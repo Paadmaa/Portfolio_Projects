@@ -2,7 +2,7 @@
 **Driving smarter lending decisions through data-driven insights**
 
 ---
-Live Dashboard - [Project Link](https://app.powerbi.com/view?r=eyJrIjoiNjQxNzZiOTctMzliOS00M2Y0LWEzNTAtMWViMTAxODc5Y2ZiIiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9) 
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQxNzZiOTctMzliOS00M2Y0LWEzNTAtMWViMTAxODc5Y2ZiIiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9) 
 ---
 
 ## 📘 Project Overview  
