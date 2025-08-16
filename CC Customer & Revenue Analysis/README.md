@@ -1,6 +1,7 @@
 # 💳 Credit Card Customer & Revenue Analysis  
 **Uncovering customer behavior, card performance, and revenue drivers in the credit card ecosystem**
 
+Live Dashboard - [Project Link](https://app.powerbi.com/view?r=eyJrIjoiZTk5NjFiOGMtYzYwNi00YTJmLTk2NWMtZDFjMTkzZmIxMTJiIiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9)
 ---
 
 ## 📘 Project Overview  
