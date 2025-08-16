@@ -2,6 +2,8 @@
 **Driving smarter lending decisions through data-driven insights**
 
 ---
+Live Dashboard - [Project Link](https://app.powerbi.com/view?r=eyJrIjoiNjQxNzZiOTctMzliOS00M2Y0LWEzNTAtMWViMTAxODc5Y2ZiIiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9) 
+---
 
 ## 📘 Project Overview  
 This project presents a detailed analysis of loan application data from a financial institution, covering over **38,000 loan records** and more than **$435 million in funded amounts**. The goal is to evaluate loan performance, identify risk factors, and uncover trends in borrower behavior to support more informed lending strategies.
@@ -24,8 +26,6 @@ Using **Power BI** and **SQL**, the dashboard provides a comprehensive view of l
 - **Borrower Profile Analysis**: Employment length, home ownership, and loan purpose  
 - **Term Comparison**: 36-month vs. 60-month loan performance  
 - **Good vs. Bad Loan Segmentation**: Funding and repayment metrics
-
-> _Suggested placement: Insert dashboard screenshot here for visual context_
 
 ---
 
