@@ -1,5 +1,7 @@
 # 📊 Retail Analytics Excellence — From Store Floors to Strategic Boardrooms
 
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQ2N2RkYTQtMDRjNC00MjNkLWEzNjMtZTNlNGViZGUzOTJhIiwidCI6IjNmYWRhYTExLWY4OGEtNDY0MS04ZDQzLTYzMGQzOTViNjU5ZCJ9)
+
 ## 1. Executive Overview
 This unified analytics suite blends **two complementary perspectives**:
 - **Reliance SMART Dashboard** → Store‑level, brand‑level, and geographic sales intelligence.
